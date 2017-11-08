@@ -1,0 +1,15 @@
+[
+  {
+    "website": "readmanga",
+    "baseURL": "http://www.readmanga.today/",
+    "type": 0,
+    "novels": [
+      {
+        "novelName": "tales of demons and gods",
+        "url": "",
+        "searchPatterns": [{"type": 2, "name":"a", "string": "Tales of Demons and Gods"}, {"type": 1, "string": "Tales of Demons and Gods"}],
+        "disabled": false
+      }
+    ]
+  }
+]
